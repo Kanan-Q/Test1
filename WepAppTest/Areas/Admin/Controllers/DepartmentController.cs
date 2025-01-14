@@ -11,7 +11,7 @@ namespace WepAppTest.Areas.Admin.Controllers
         [Area("Admin")]
         public async Task<IActionResult> Index()
         {
-            return View(/*await _context.Departments.ToListAsync()*/);
+            return View(await _context.Departments.ToListAsync());
         }
         [HttpGet]
         public async Task<IActionResult> Create()
@@ -38,6 +38,7 @@ namespace WepAppTest.Areas.Admin.Controllers
             {
                DepartmentName= x.DepartmentName
             }).FirstOrDefaultAsync();
+            if (data is null) return BadRequest();
             return View(data);
         }
 
@@ -49,7 +50,7 @@ namespace WepAppTest.Areas.Admin.Controllers
             if (!id.HasValue) return BadRequest();
             var data = await _context.Departments.Where(x => x.Id == id.Value).FirstOrDefaultAsync();
             data.DepartmentName= vm.DepartmentName;
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 

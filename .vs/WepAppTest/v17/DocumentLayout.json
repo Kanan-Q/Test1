@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanan\\Desktop\\Test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|c:\\users\\kanan\\desktop\\test1\\wepapptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|solutionrelative:wepapptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|c:\\users\\kanan\\desktop\\test1\\wepapptest\\extension\\seedextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|solutionrelative:wepapptest\\extension\\seedextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|c:\\users\\kanan\\desktop\\test1\\wepapptest\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|solutionrelative:wepapptest\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|c:\\users\\kanan\\desktop\\test1\\wepapptest\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|solutionrelative:wepapptest\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|c:\\users\\kanan\\desktop\\test1\\wepapptest\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|solutionrelative:wepapptest\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|c:\\users\\kanan\\desktop\\test1\\wepapptest\\areas\\admin\\views\\department\\departmentcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|solutionrelative:wepapptest\\areas\\admin\\views\\department\\departmentcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|c:\\users\\kanan\\desktop\\test1\\wepapptest\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|solutionrelative:wepapptest\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|c:\\users\\kanan\\desktop\\test1\\wepapptest\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|solutionrelative:wepapptest\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|c:\\users\\kanan\\desktop\\test1\\wepapptest\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|solutionrelative:wepapptest\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|c:\\users\\kanan\\desktop\\test1\\wepapptest\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|solutionrelative:wepapptest\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|c:\\users\\kanan\\desktop\\test1\\wepapptest\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|solutionrelative:wepapptest\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|c:\\users\\kanan\\desktop\\test1\\wepapptest\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|solutionrelative:wepapptest\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|c:\\users\\kanan\\desktop\\test1\\wepapptest\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|solutionrelative:wepapptest\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|c:\\users\\kanan\\desktop\\test1\\wepapptest\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706CD2D6-E41B-4C88-8246-4238C88ADA28}|WepAppTest\\WepAppTest.csproj|solutionrelative:wepapptest\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedExtension.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Extension\\SeedExtension.cs",
+              "RelativeDocumentMoniker": "WepAppTest\\Extension\\SeedExtension.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Extension\\SeedExtension.cs",
+              "RelativeToolTip": "WepAppTest\\Extension\\SeedExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T06:54:15.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "WepAppTest\\Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Enums\\Roles.cs",
+              "RelativeToolTip": "WepAppTest\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T06:52:28.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\Department\\DepartmentCreate.cshtml",
+              "RelativeDocumentMoniker": "WepAppTest\\Areas\\Admin\\Views\\Department\\DepartmentCreate.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\Department\\DepartmentCreate.cshtml",
+              "RelativeToolTip": "WepAppTest\\Areas\\Admin\\Views\\Department\\DepartmentCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T06:48:45.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "WepAppTest\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "WepAppTest\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T06:29:17.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WepAppTest\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WepAppTest\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T06:26:58.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Program.cs",
+              "RelativeDocumentMoniker": "WepAppTest\\Program.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Program.cs",
+              "RelativeToolTip": "WepAppTest\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T06:26:06.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "WepAppTest\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "WepAppTest\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T06:25:48.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "WepAppTest\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "WepAppTest\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T06:25:29.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeDocumentMoniker": "WepAppTest\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeToolTip": "WepAppTest\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T06:47:16.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "WepAppTest\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "WepAppTest\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwEQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T06:31:13.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WepAppTest\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WepAppTest\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T06:41:57.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "WepAppTest\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "WepAppTest\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T06:42:46.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WepAppTest\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WepAppTest\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T06:42:01.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "WepAppTest\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\Test1\\WepAppTest\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "WepAppTest\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T06:42:03.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

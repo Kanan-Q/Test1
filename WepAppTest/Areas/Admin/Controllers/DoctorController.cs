@@ -11,12 +11,13 @@ namespace WepAppTest.Areas.Admin.Controllers
         [Area("Admin")]
         public async Task<IActionResult> Index()
         {
-            return View(/*await _context.Doctors.ToListAsync()*/);
+            return View(await _context.Doctors.ToListAsync());
         }
 
         [HttpGet]
         public async Task<IActionResult> Create()
         {
+            ViewBag.Departments = await _context.Departments.Where(x => !x.IsDeleted).ToListAsync();
             return View();
         }
 
@@ -62,7 +63,7 @@ namespace WepAppTest.Areas.Admin.Controllers
             if (!id.HasValue) return BadRequest();
             var data = await _context.Doctors.Where(x=>x.Id==id.Value).Select(x=> new DoctorUpdateVM {
 
-                Age=x.Age, Name=x.Name, Salary=x.Salary,SurName=x.Surname,
+                Age=x.Age, Name=x.Name, Salary=x.Salary,SurName=x.Surname,CoverPhoto=x.Photo
 
             }).FirstOrDefaultAsync();
             return View(data);
@@ -85,7 +86,7 @@ namespace WepAppTest.Areas.Admin.Controllers
             }
             if (!ModelState.IsValid)
             {
-                ViewBag.Categories = await _context.Departments.Where(x => !x.IsDeleted).ToListAsync();
+                ViewBag.Departments = await _context.Departments.Where(x => !x.IsDeleted).ToListAsync();
                 return View(vm);
             }
             var data = await _context.Doctors.Where(x => x.Id == id.Value).FirstOrDefaultAsync();
@@ -98,6 +99,7 @@ namespace WepAppTest.Areas.Admin.Controllers
             data.Surname = vm.SurName;
             data.Name = vm.Name;
             data.Age = vm.Age;
+            
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
 

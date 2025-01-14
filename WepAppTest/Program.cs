@@ -4,6 +4,7 @@
 
 using Microsoft.EntityFrameworkCore;
 using WepAppTest.Context;
+using WepAppTest.Extension;
 
 namespace WebAppTest
 {
@@ -30,7 +31,7 @@ namespace WebAppTest
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-
+            //app.UseUserSeed();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 

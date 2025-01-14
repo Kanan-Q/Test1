@@ -3,7 +3,7 @@
 
 <div class="card shadow mb-4">
     <div class="card-header py-3">
-        <h6 class="m-0 font-weight-bold text-primary">Slider create</h6>
+        <h6 class="m-0 font-weight-bold text-primary">Doctor create</h6>
     </div>
     <div class="card-body">
         <form enctype="multipart/form-data" method="post">
@@ -27,6 +27,13 @@
                 <input class="form-control" asp-for="Salary">
                 <span class="text-danger" asp-validation-for="Salary"></span>
             </div>
+            <label asp-for="DepartmentId">Categories</label>
+            <select asp-for="DepartmentId" class="form-control" asp-items='new SelectList(ViewBag.Categories,"Id","DepartmentName")'>
+                <option selected disabled>Select Categories</option>
+                @foreach (var item in ViewBag.Departments)
+                { }
+            </select>
+            <span class="text-danger" asp-route-id="DepartmentId"></span>
             <div class="form-group">
                 <label asp-for="Photo">File</label>
                 <input class="form-control" asp-for="Photo">
